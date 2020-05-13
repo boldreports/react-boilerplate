@@ -59,7 +59,7 @@ For documentation, visit [here](https://documentation.boldreports.com/react/).
 
 ## Disclaimer
 
-We used the [React Boilerplate application](https://github.com/react-boilerplate/react-boilerplate) and integrated our `Bold Reports React component` in .
+We used the [React Boilerplate application](https://github.com/react-boilerplate/react-boilerplate) and integrated our `Bold Reports React components`.
 
 ## Features
 
