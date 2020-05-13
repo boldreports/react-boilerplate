@@ -49,6 +49,18 @@
   <sub>Created by <a href="https://twitter.com/mxstbr">Max Stoiber</a> and maintained with ❤️ by an amazing <a href="https://github.com/orgs/react-boilerplate/people">team of developers</a>.</sub>
 </div>
 
+## Bold Reports
+
+Enterprise-class reporting tools for React development to embed reporting functionalities such as designing, viewing, exporting, and printing reports in your React applications.
+
+To know more about Bold Reports, visit [here](https://www.boldreports.com/).
+
+For documentation, visit [here](https://documentation.boldreports.com/react/).
+
+## Disclaimer
+
+We used the [React Boilerplate application](https://github.com/react-boilerplate/react-boilerplate) and integrated our `Bold Reports React component` in .
+
 ## Features
 
 <dl>
@@ -167,15 +179,3 @@ This project would not be possible without the support of these amazing folks. [
 
 This project is licensed under the MIT license, Copyright (c) 2019 Maximilian
 Stoiber. For more information see `LICENSE.md`.
-
-## Bold Reports
-
-Enterprise-class reporting tools for React development to embed reporting functionalities such as designing, viewing, exporting, and printing reports in your React applications.
-
-To know more about Bold Reports, visit [here](https://www.boldreports.com/).
-
-For documentation, visit [here](https://documentation.boldreports.com/react/).
-
-## Disclaimer
-
-We integrated our `Bold Reports React component` in [React Boilerplate application](https://github.com/react-boilerplate/react-boilerplate).
