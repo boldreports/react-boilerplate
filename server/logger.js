@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 
 const chalk = require('chalk');
+const ip = require('neoip');
 
 const divider = chalk.gray('\n-----------------------------------');
 
@@ -25,7 +26,10 @@ const logger = {
     console.log(`
 ${chalk.bold('Access URLs:')}${divider}
 Localhost: ${chalk.magenta(`http://${host}:${port}`)}
-${divider}
+      LAN: ${chalk.magenta(`http://${ip.address()}:${port}`) +
+        (tunnelStarted
+          ? `\n    Proxy: ${chalk.magenta(tunnelStarted)}`
+          : '')}${divider}
 ${chalk.blue(`Press ${chalk.italic('CTRL-C')} to stop`)}
     `);
   },
